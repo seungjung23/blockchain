@@ -1,2 +1,0 @@
-# blockchain
-hyperledger fabric project
